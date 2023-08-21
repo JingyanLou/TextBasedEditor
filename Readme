@@ -1,0 +1,5 @@
+a minimalist project highlighting fundamental text manipulation concepts using Python. This app lets you insert, read, delete, search, and print text. Content is stored in a list, each line as a string.
+
+How to use: 
+1. Download the folder
+2. Run task5.py
