@@ -1,4 +1,4 @@
-# Minimalist Text Manipulation Tool
+# **Minimalist Text Manipulation Tool**
 
 This project offers a simple yet powerful tool for basic text manipulation directly from your terminal. Designed with ease of use in mind, it provides functionalities to insert, read, delete, search, and print text. Each piece of content is stored as a string in a list, allowing for efficient and straightforward text management.
 
