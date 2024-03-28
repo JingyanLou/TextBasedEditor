@@ -1,34 +1,11 @@
-# **Minimalist Text Manipulation Tool**
+# Minimalist Text Manipulation Tool
 
 This project offers a simple yet powerful tool for basic text manipulation directly from your terminal. Designed with ease of use in mind, it provides functionalities to insert, read, delete, search, and print text. Each piece of content is stored as a string in a list, allowing for efficient and straightforward text management.
 
 ## Features
 
-### Insert
-Add new text to your document.
-
-### Read
-View the content of your document.
-
-### Delete
-Remove specific lines from your document.
-
-### Search
-Find and highlight text within your document.
-
-### Print
-Display the entire content of your document in a readable format.
-
-## Getting Started
-
-### 1. Download the Folder
-
-First, you need to download the project folder from GitHub. You can do this by clicking on the "Code" button and then selecting "Download ZIP". Alternatively, you can clone the repository using Git with the following command:
-
-\```bash
-git clone <repository-URL>
-\```
-
-### 2. Run the Application
-
-Navigate to the downloaded folder and locate the `task5.py` file. This is the main application file. To run it, ensure that you have Python installed on your computer. Then, open your terminal or command prompt, navigate to the project
+- **Insert**: Add new text to your document.
+- **Read**: View the content of your document.
+- **Delete**: Remove specific lines from your document.
+- **Search**: Find and highlight text within your document.
+- **Print**: Display the entire content of your document in a readable format.
